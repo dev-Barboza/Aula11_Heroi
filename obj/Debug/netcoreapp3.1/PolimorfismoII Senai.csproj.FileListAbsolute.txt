@@ -1,0 +1,13 @@
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\bin\Debug\netcoreapp3.1\PolimorfismoII Senai.exe
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\bin\Debug\netcoreapp3.1\PolimorfismoII Senai.deps.json
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\bin\Debug\netcoreapp3.1\PolimorfismoII Senai.runtimeconfig.json
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\bin\Debug\netcoreapp3.1\PolimorfismoII Senai.runtimeconfig.dev.json
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\bin\Debug\netcoreapp3.1\PolimorfismoII Senai.dll
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\bin\Debug\netcoreapp3.1\PolimorfismoII Senai.pdb
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\obj\Debug\netcoreapp3.1\PolimorfismoII Senai.csprojAssemblyReference.cache
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\obj\Debug\netcoreapp3.1\PolimorfismoII Senai.csproj.CoreCompileInputs.cache
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\obj\Debug\netcoreapp3.1\PolimorfismoII Senai.AssemblyInfoInputs.cache
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\obj\Debug\netcoreapp3.1\PolimorfismoII Senai.AssemblyInfo.cs
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\obj\Debug\netcoreapp3.1\PolimorfismoII Senai.dll
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\obj\Debug\netcoreapp3.1\PolimorfismoII Senai.pdb
+C:\Users\maheu\Documents\SENAI\PolimorfismoII Senai\obj\Debug\netcoreapp3.1\PolimorfismoII Senai.genruntimeconfig.cache
